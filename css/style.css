@@ -37,4 +37,13 @@
     background-color: yellow;
 }
 
+#firstrow {
+    background-color: rgb(54, 175, 219);
+    color: white;
+    font-size: 18px;
+    }
+
+.rows {
+    background-color: lightblue;
+}
 
